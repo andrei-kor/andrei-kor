@@ -1,0 +1,5 @@
+https://shields.io/
+https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+https://github.com/devicons/devicon/tree/master/icons
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://emoji-copy-paste.com/
