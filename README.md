@@ -24,10 +24,11 @@
     <img src="./src/js.svg" alt="js" title="JS" width="30" height="30" />
     <img src="./src/webpack.svg" alt="webpack" title="Webpack" width="30" height="30" />
     <img src="./src/nodejs.svg" alt="nodejs" title="NodeJS" width="30" height="30" />
+    <img src="./src/mongodb.svg" alt="mongodb" title="MongoDB" width="30" height="30" />
     <img src="./src/html5.svg" alt="html5" title="HTML5" width="30" height="30" />
     <img src="./src/css3.svg" alt="css3" title="CSS3" width="30" height="30" />
-    <img src="./src/babel.svg" alt="babel" title="Babel" width="30" height="30" />
     <img src="./src/ubuntu.svg" alt="ubuntu" title="Linux/Ubuntu" width="30" height="30" />
+    <img src="./src/babel.svg" alt="babel" title="Babel" width="30" height="30" />
     <img src="./src/ai.svg" alt="ai" title="Illustrator" width="30" height="30" />
     <img src="./src/ps.svg" alt="ps" title="Photoshop" width="30" height="30" />
     <img src="./src/figma.svg" alt="figma" title="Figma" width="30" height="30" />
@@ -43,7 +44,7 @@
 
 ---
 
-<h2>🔥 My Stats : </h2>
+<!-- <h2>🔥 My Stats : </h2>
 
 <div align="center">
 
@@ -51,4 +52,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kor&layout=compact&theme=vision-friendly-dark)
 
-</div>
+</div> -->
