@@ -41,7 +41,7 @@
 ---
 
 <h2>💻 Some of my projects:</h2>
-<em>Click on the gif to see how it works</em>👆
+<em>Click on the image to see how it works</em>👆
 
 <table width="100%">
   <thead>
@@ -56,18 +56,10 @@
       </th>
       <th>
         <h3>Own site (SPA)</h3>
-        <em><a href="https://github.com/andrey-kor/site_andrey-kor">GitHub-repository</a></em>
-        <div>
-          <ul>
-            <li>React</li>
-            <li>Node</li>
-            <li>Express</li>
-            <li>MongoDB</li>
-            <li>Figma</li>
-            <li>CSS, HTML</li>
-            <li>+ uploaded to hosting</li>
-          </ul>
-        </div>
+        <a href="https://github.com/andrey-kor/site_andrey-kor">
+          <em>GitHub-repository</em>
+        </a><br><br>
+            React, Node, Express, MongoDB, Figma, CSS, HTML, +uploaded to hosting
       </th>
     </tr>
     <tr>
@@ -78,14 +70,10 @@
       </th>
       <th>
         <h3>Bangkok Express</h3>
-        <em><a href="https://github.com/andrey-kor/BangkokExpress-onlineStore">GitHub-repository</em></a>
-          <div>
-            <ul>
-              <li>JS</li>
-              <li>Webpack</li>
-              <li>Babel</li>
-            </ul>
-          </div>
+        <a href="https://github.com/andrey-kor/BangkokExpress-onlineStore">
+          <em>GitHub-repository</em>
+        </a><br><br>
+            JS, Webpack, Babel
       </th>
     </tr>
     <tr>
@@ -96,14 +84,10 @@
       </th>
       <th>
         <h3>Jadoo (Landing Page)</h3>
-        <em><a href="https://github.com/andrey-kor/layuot-JADOO">GitHub-repository</a></em>
-          <div>
-            <ul>
-              <li>JS</li>
-              <li>CSS</li>
-              <li>HTML</li>
-            </ul>
-          </div>
+        <a href="https://github.com/andrey-kor/layuot-JADOO">
+          <em>GitHub-repository</em>
+        </a><br><br>
+            JS, CSS, HTML
       </th>
     </tr>
   </tbody>
