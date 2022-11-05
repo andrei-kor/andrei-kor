@@ -41,6 +41,7 @@
 ---
 
 <h2>💻 Some of my projects:</h2>
+<em>Click on the gif to see how it works</em>👆
 
 <table width="100%">
   <thead>
@@ -49,41 +50,60 @@
   <tbody>
     <tr>
       <th width="60%">
-      <img src="./src/gif/own_site.gif" alt="Личный сайт, демонстрация работы">
+        <a href="http://andrey-kor.ru">
+          <img src="./src/gif/own_site.gif" alt="Личный сайт, демонстрация работы">
+        </a>
       </th>
       <th>
-        <a href="http://andrey-kor.ru"><h3>Личный сайт (SPA)</h3></a>
-        <em><a href="https://github.com/andrey-kor/site_andrey-kor">GitHub-страничка</a></em><br>
-          -React<br>
-          -Node<br>
-          -Figma<br>
-          -<br>
+        <h3>Own site (SPA)</h3>
+        <em><a href="https://github.com/andrey-kor/site_andrey-kor">GitHub-repository</a></em>
+        <div>
+          <ul>
+            <li>React</li>
+            <li>Node</li>
+            <li>Express</li>
+            <li>MongoDB</li>
+            <li>Figma</li>
+            <li>CSS, HTML</li>
+            <li>+ uploaded to hosting</li>
+          </ul>
+        </div>
       </th>
     </tr>
     <tr>
       <th width="60%">
-      <img src="./src/gif/bangkok.gif" alt="Bangkok Express, демонстрация работы">
+        <a href="http://bangkok.andrey-kor.ru/">
+          <img src="./src/gif/bangkok.gif" alt="Bangkok Express, демонстрация работы">
+        </a>
       </th>
       <th>
-        <a href="http://bangkok.andrey-kor.ru/"><h3>Bangkok Express</h3></a>
-        <em><a href="https://github.com/andrey-kor/BangkokExpress-onlineStore">GitHub-страничка</a></em><br>
-          -JS<br>
-          -Webpack<br>
-          -Babel<br>
-          -<br>
+        <h3>Bangkok Express</h3>
+        <em><a href="https://github.com/andrey-kor/BangkokExpress-onlineStore">GitHub-repository</em></a>
+          <div>
+            <ul>
+              <li>JS</li>
+              <li>Webpack</li>
+              <li>Babel</li>
+            </ul>
+          </div>
       </th>
     </tr>
     <tr>
       <th width="60%">
-      <img src="./src/gif/jadoo.gif" alt="Jadoo, демонстрация работы">
+        <a href="http://jadoo.andrey-kor.ru/">
+          <img src="./src/gif/jadoo.gif" alt="Jadoo, демонстрация работы">
+        </a>
       </th>
       <th>
-        <a href="http://bangkok.andrey-kor.ru/"><h3>Jadoo (Landing Page)</h3></a>
-        <em><a href="https://github.com/andrey-kor/layuot-JADOO">GitHub-страничка</a></em><br>
-          -JS<br>
-          -HTML<br>
-          -CSS<br>
-          -<br>
+        <h3>Jadoo (Landing Page)</h3>
+        <em><a href="https://github.com/andrey-kor/layuot-JADOO">GitHub-repository</a></em>
+          <div>
+            <ul>
+              <li>JS</li>
+              <li>CSS</li>
+              <li>HTML</li>
+            </ul>
+          </div>
       </th>
     </tr>
   </tbody>
