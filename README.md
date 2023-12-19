@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="linkedin.com/andrey-kor/"/>
   </a>
   <a href="https://disk.yandex.ru/i/eUOsyoqgK00_tw">
-    <img src="" alt="resume" title="@CV"/>
+    <img src="https://img.shields.io/badge/CV-informational?style=flat&logo=readdotcv&logoColor=white" alt="resume" title="CV"/>
   </a>
 </div>
 
